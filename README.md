@@ -1,2 +1,2 @@
-# hts
-Hackthissite.com Solutions
+# Hackthissite.org-Challenges
+Hackthissite.org Solutions
